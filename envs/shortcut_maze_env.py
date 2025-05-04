@@ -1,0 +1,2 @@
+# ShortcutMazeEnvironment implementation
+
